@@ -12,9 +12,6 @@ Admin manages all the users.
 ## Version
 1.0
 
-## Author
-Sanket Mathur
-
 ## Directory Structure
 Backend - maven project
 plagiarism-detector/src/main/java/edu/neu/cs5500
